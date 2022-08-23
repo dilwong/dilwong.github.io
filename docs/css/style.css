@@ -1,0 +1,176 @@
+/* Style based on Arcana by HTML5 UP available under Creative Commons Attribution 3.0 License */
+
+@import url("font-awesome.min.css");
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,600,600italic");
+
+body {
+	padding-top: 60px;
+}
+
+nav {
+	font-weight: bold;
+}
+
+body.is-loading * {
+	-moz-transition: none !important;
+	-webkit-transition: none !important;
+	-o-transition: none !important;
+	-ms-transition: none !important;
+	transition: none !important;
+	-moz-animation: none !important;
+	-webkit-animation: none !important;
+	-o-animation: none !important;
+	-ms-animation: none !important;
+	animation: none !important;
+}
+
+body, input, select, textarea {
+	color: #474747;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 1em;
+	font-weight: 300;
+	line-height: 1.65em;
+}
+
+main a {
+	-moz-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out, opacity 0.2s ease-in-out;
+	-webkit-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out, opacity 0.2s ease-in-out;
+	-o-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out, opacity 0.2s ease-in-out;
+	-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out, opacity 0.2s ease-in-out;
+	transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out, opacity 0.2s ease-in-out;
+	color: #37c0fb;
+	text-decoration: none;
+}
+
+main a:hover {
+	color: red;
+	border-bottom-color: transparent;
+	text-decoration: none;
+}
+
+strong, b {
+	font-weight: 600;
+}
+
+em, i {
+	font-style: italic;
+}
+
+p, ul, ol, dl, table, blockquote {
+	margin: 0 0 2em 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	color: inherit;
+	font-weight: 600;
+	line-height: 1.75em;
+	margin-bottom: 1em;
+}
+
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+	color: inherit;
+	text-decoration: none;
+}
+
+h1 em, h2 em, h3 em, h4 em, h5 em, h6 em {
+	font-style: normal;
+	font-weight: 300;
+}
+
+h2 {
+	font-size: 1.75em;
+	letter-spacing: -0.025em;
+}
+
+h3 {
+	font-size: 1.2em;
+	letter-spacing: -0.025em;
+}
+
+sub {
+	font-size: 0.8em;
+	position: relative;
+	top: 0.5em;
+}
+
+sup {
+	font-size: 0.8em;
+	position: relative;
+	top: -0.5em;
+}
+
+hr {
+	border-top: solid 1px #e0e0e0;
+	border: 0;
+	margin-bottom: 1.5em;
+}
+
+blockquote {
+	border-left: solid 0.5em #e0e0e0;
+	font-style: italic;
+	padding: 1em 0 1em 2em;
+}
+
+section.special, article.special {
+	text-align: center;
+}
+
+.image {
+	border: 0;
+	display: inline-block;
+	position: relative;
+	border-radius: 5px;
+}
+
+.image img {
+	display: block;
+	border-radius: 5px;
+}
+
+.image.left {
+	display: block;
+	float: left;
+	margin: 0 2em 2em 0;
+	position: relative;
+	top: 0.25em;
+}
+
+.image.left img {
+	display: block;
+	width: 100%;
+}
+
+.image.fit {
+	display: block;
+}
+
+.image.fit img {
+	display: block;
+	width: 100%;
+}
+
+.image.featured {
+	display: block;
+	margin: 0 0 2em 0;
+}
+
+.image.featured img {
+	display: block;
+	width: 100%;
+}
+
+.nojavascript {
+	margin-top: 20px;
+	list-style-type: none;
+}
+
+.gallery-image {
+	width:200px;
+	height:200px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.card {
+	border: 0;
+}
