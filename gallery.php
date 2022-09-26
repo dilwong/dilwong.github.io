@@ -40,6 +40,13 @@
                     </div>
                 </div>
 
+                <div class="card text-center" style="width: 18rem;">
+                    <img src="images/stacking_fault.jpg" class="card-img-top gallery-image">
+                    <div class="card-body">
+                        <p class="card-text">Atomically resolved stacking fault in bilayer graphene.</p>
+                    </div>
+                </div>
+
             </div>
 
         </div>
