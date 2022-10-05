@@ -47,6 +47,20 @@
                     </div>
                 </div>
 
+                <div class="card text-center" style="width: 18rem;">
+                    <img src="images/friedel.png" class="card-img-top gallery-image">
+                    <div class="card-body">
+                        <p class="card-text">Energy-resolved Friedel oscillation in monolayer graphene.</p>
+                    </div>
+                </div>
+
+                <div class="card text-center" style="width: 18rem;">
+                    <img src="images/epitaxial_graphene.jpg" class="card-img-top gallery-image">
+                    <div class="card-body">
+                        <p class="card-text">Epitaxially grown few-layer graphene on hBN.</p>
+                    </div>
+                </div>
+
             </div>
 
         </div>
