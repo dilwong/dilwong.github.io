@@ -27,20 +27,20 @@
 
             <p>
                 <div><b>
-                    <a href="https://arxiv.org/abs/2303.08246" target="_blank">
-                        Insulators at Fractional Fillings in Twisted Bilayer Graphene Partially Aligned to Hexagonal Boron Nitride
-                    </a>
-                </b></div>
-                <u>Dillon Wong*</u>, Kevin P. Nuckolls*, Myungchul Oh*, Ryan L. Lee, Kenji Watanabe, Takashi Taniguchi, Ali Yazdani; <a href="https://arxiv.org/abs/2303.08246" target="_blank">arXiv:2303.08246</a>
-            </p>
-
-            <p>
-                <div><b>
                     <a href="https://arxiv.org/abs/2303.00024" target="_blank">
                         Quantum textures of the many-body wavefunctions in magic-angle graphene
                     </a>
                 </b></div>
                 Kevin P. Nuckolls*, Ryan L. Lee*, Myungchul Oh*, <u>Dillon Wong*</u>, Tomohiro Soejima*, Jung Pyo Hong, Dumitru Călugăru, Jonah Herzog-Arbeitman, B. Andrei Bernevig, Kenji Watanabe, Takashi Taniguchi, Nicolas Regnault, Michael P. Zaletel, Ali Yazdani; <a href="https://arxiv.org/abs/2303.00024" target="_blank">arXiv:2303.00024</a>
+            </p>
+
+            <p>
+                <div><b>
+                    <a href="https://pubs.aip.org/aip/ltp/article-abstract/49/6/655/2900388/Insulators-at-fractional-fillings-in-twisted" target="_blank">
+                        Insulators at fractional fillings in twisted bilayer graphene partially aligned to hexagonal boron nitride
+                    </a>
+                </b></div>
+                <u>Dillon Wong*</u>, Kevin P. Nuckolls*, Myungchul Oh*, Ryan L. Lee, Kenji Watanabe, Takashi Taniguchi, Ali Yazdani, <i>Low Temperature Physics</i> <b>49</b>, 655-661 (2023); <a href="https://arxiv.org/abs/2303.08246" target="_blank">arXiv:2303.08246</a>
             </p>
 
             <p>
