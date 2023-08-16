@@ -27,11 +27,11 @@
 
             <p>
                 <div><b>
-                    <a href="https://arxiv.org/abs/2303.00024" target="_blank">
+                    <a href="https://www.nature.com/articles/s41586-023-06226-x" target="_blank">
                         Quantum textures of the many-body wavefunctions in magic-angle graphene
                     </a>
                 </b></div>
-                Kevin P. Nuckolls*, Ryan L. Lee*, Myungchul Oh*, <u>Dillon Wong*</u>, Tomohiro Soejima*, Jung Pyo Hong, Dumitru Călugăru, Jonah Herzog-Arbeitman, B. Andrei Bernevig, Kenji Watanabe, Takashi Taniguchi, Nicolas Regnault, Michael P. Zaletel, Ali Yazdani; <a href="https://arxiv.org/abs/2303.00024" target="_blank">arXiv:2303.00024</a>
+                Kevin P. Nuckolls*, Ryan L. Lee*, Myungchul Oh*, <u>Dillon Wong*</u>, Tomohiro Soejima*, Jung Pyo Hong, Dumitru Călugăru, Jonah Herzog-Arbeitman, B. Andrei Bernevig, Kenji Watanabe, Takashi Taniguchi, Nicolas Regnault, Michael P. Zaletel, Ali Yazdani, <i>Nature</i> <b>620</b>, 525-532 (2023); <a href="https://arxiv.org/abs/2303.00024" target="_blank">arXiv:2303.00024</a>
             </p>
 
             <p>
