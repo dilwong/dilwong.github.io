@@ -18,11 +18,11 @@
 
             <p>
                 <div><b>
-                    <a href="https://arxiv.org/abs/2303.14903" target="_blank">
-                        Strong Inter-valley Electron-Phonon Coupling in Magic-Angle Twisted Bilayer Graphene
+                    <a href="https://www.nature.com/articles/s41586-024-08227-w" target="_blank">
+                        Strong electron–phonon coupling in magic-angle twisted bilayer graphene
                     </a>
                 </b></div>
-                Cheng Chen*, Kevin P. Nuckolls*, Shuhan Ding, Wangqian Miao, <u>Dillon Wong</u>, Myungchul Oh, Ryan L. Lee, Shanmei He, Cheng Peng, Ding Pei, Yiwei Li, Shihao Zhang, Jianpeng Liu, Zhongkai Liu, Chris Jozwiak, Aaron Bostwick, Eli Rotenberg, Chu Li, Xu Han, Ding Pan, Xi Dai, Chaoxing Liu, B. Andrei Bernevig, Yao Wang, Ali Yazdani, Yulin Chen; <a href="https://arxiv.org/abs/2303.14903" target="_blank">arXiv:2303.14903</a>
+                Cheng Chen*, Kevin P. Nuckolls*, Shuhan Ding, Wangqian Miao, <u>Dillon Wong</u>, Myungchul Oh, Ryan L. Lee, Shanmei He, Cheng Peng, Ding Pei, Yiwei Li, Chenyue Hao, Haoran Yan, Hanbo Xiao, Han Gao, Qiao Li, Shihao Zhang, Jianpeng Liu, Lin He, Kenji Watanabe, Takashi Taniguchi, Chris Jozwiak, Aaron Bostwick, Eli Rotenberg, Chu Li, Xu Han, Ding Pan, Zhongkai Liu, Xi Dai, Chaoxing Liu, B. Andrei Bernevig, Yao Wang, Ali Yazdani, Yulin Chen, <i>Nature</i> <b>636</b>, 342–347 (2024); <a href="https://arxiv.org/abs/2303.14903" target="_blank">arXiv:2303.14903</a>
             </p>
 
             <p>
